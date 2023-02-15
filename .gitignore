@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+
+model/*
+data/*
+.history/*
+.git/*
+
+v1/model/*
+
+v2/model/*
